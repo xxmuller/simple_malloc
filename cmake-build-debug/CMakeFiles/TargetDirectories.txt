@@ -1,0 +1,3 @@
+C:/FIIT/DSA/malloc_turing/cmake-build-debug/CMakeFiles/malloc_turing.dir
+C:/FIIT/DSA/malloc_turing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/FIIT/DSA/malloc_turing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
